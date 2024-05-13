@@ -1,0 +1,7 @@
+C:\Users\T&T\Desktop\Lab2\Bai2Lab2\bin\Debug\Bai2Lab2.exe.config
+C:\Users\T&T\Desktop\Lab2\Bai2Lab2\bin\Debug\Bai2Lab2.exe
+C:\Users\T&T\Desktop\Lab2\Bai2Lab2\bin\Debug\Bai2Lab2.pdb
+C:\Users\T&T\Desktop\Lab2\Bai2Lab2\obj\Debug\Bai2Lab2.csproj.AssemblyReference.cache
+C:\Users\T&T\Desktop\Lab2\Bai2Lab2\obj\Debug\Bai2Lab2.csproj.CoreCompileInputs.cache
+C:\Users\T&T\Desktop\Lab2\Bai2Lab2\obj\Debug\Bai2Lab2.exe
+C:\Users\T&T\Desktop\Lab2\Bai2Lab2\obj\Debug\Bai2Lab2.pdb
